@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIKeyAuthentication.API", "APIKeyAuthentication.API\APIKeyAuthentication.API.csproj", "{9E5F9AF3-7FE8-4A24-960F-2267FC1B7B83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIKeyAuthentication.Test", "APIKeyAuthentication.Test\APIKeyAuthentication.Test.csproj", "{A9E4CA33-8BBD-4144-991A-45FB618B7B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E5F9AF3-7FE8-4A24-960F-2267FC1B7B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5F9AF3-7FE8-4A24-960F-2267FC1B7B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5F9AF3-7FE8-4A24-960F-2267FC1B7B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5F9AF3-7FE8-4A24-960F-2267FC1B7B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E4CA33-8BBD-4144-991A-45FB618B7B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E4CA33-8BBD-4144-991A-45FB618B7B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E4CA33-8BBD-4144-991A-45FB618B7B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E4CA33-8BBD-4144-991A-45FB618B7B39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B245F37A-9E3D-49FE-A00D-F35123841328}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@APIKeyAuthentication.API_HostAddress = http://localhost:5038
+
+GET {{APIKeyAuthentication.API_HostAddress}}/City/
+Accept: application/json
+
+###
